@@ -6,5 +6,6 @@ if num>50:
         print("And it is even too")
     else:
         print("And it is odd")
-    else:
+
+else:
         print("Numberis less than 50")
