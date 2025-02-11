@@ -8,4 +8,4 @@ if num>50:
         print("And it is odd")
 
 else:
-        print("Numberis less than 50")
+        print("Number is less than 50")
